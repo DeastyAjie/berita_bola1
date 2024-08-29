@@ -1,0 +1,1 @@
+ D:\\praktikum_widget\\widget_flutter\\.dart_tool\\flutter_build\\69ac88dd768a2b9f4e551afc0c943c1f\\native_assets.yaml: 
